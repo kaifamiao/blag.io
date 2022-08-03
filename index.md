@@ -1,4 +1,8 @@
+![image](https://user-images.githubusercontent.com/69365888/182646277-93099012-87e3-405f-9268-193cdd24fa15.png)
+# kaifamiao
+
 ## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/kaifamiao/blag.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
