@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/69365888/182646277-93099012-87e3-405f-9268-193cdd24fa15.png)
 # kaifamiao
 
 ## Welcome to GitHub Pages
